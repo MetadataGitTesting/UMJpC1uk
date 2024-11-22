@@ -6,7 +6,7 @@ language: scala
 buildSystem: ''
 buildSystemDetails:
   artefactID: maimorar
-  parentArtefactID: ''
+  parentArtefactID: ssntjqtlnfobmnmb8oul1d35comteam
   buildSystem: maven
   author: null
   createdAt: '2024-11-22 20:16:33'
@@ -15,8 +15,8 @@ datasets: {}
 templates: {}
 jobs: {}
 gemContainer:
-  languageVersion: ''
-  gemLibsVersion: ''
+  languageVersion: 2.12.15
+  gemLibsVersion: 1.1.26
   gems: {}
   dependencies: null
 functions:
@@ -48,10 +48,10 @@ projectDependencies:
     projectUID: 326
     projectName: scarlet.cremin
     repositoryPath: gitUri=http://gitserver:3000/dev_MuBIofzH_team_487/dev_MuBIofzH_project_326.git&subPath=
-    version: scarlet.cremin/9.2.111
+    version: scarlet.cremin/1.7.247
     isDefault: false
     author: null
-    createdAt: '2024-11-22 20:16:31'
+    createdAt: '2024-11-22 20:16:58'
 flags:
   shouldAddDefaultDependenciesIfAbsent: true
 pipelineConfigurations: {}
