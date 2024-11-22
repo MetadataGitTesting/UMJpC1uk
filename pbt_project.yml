@@ -1,6 +1,6 @@
 name: mai.morar
 description: client-driven
-version: 0.8.8.360
+version: 0.0.9.35
 author: null
 language: scala
 buildSystem: ''
