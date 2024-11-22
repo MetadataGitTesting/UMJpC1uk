@@ -1,0 +1,57 @@
+name: mai.morar
+description: client-driven
+version: 0.8.8.360
+author: null
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: maimorar
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-11-22 20:16:33'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-11-22 20:16:33'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-11-22T20:16:33.500255Z'
+  name: plibMaven
+  version: 8.6.0-SNAPSHOT
+  id: '1874672522'
+  createdAt: '2024-11-22T20:16:33.500255Z'
+  type: plibMaven
+projectDependencies:
+  '326':
+    projectUID: 326
+    projectName: scarlet.cremin
+    repositoryPath: gitUri=http://gitserver:3000/dev_MuBIofzH_team_487/dev_MuBIofzH_project_326.git&subPath=
+    version: scarlet.cremin/9.2.111
+    isDefault: false
+    author: null
+    createdAt: '2024-11-22 20:16:31'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
